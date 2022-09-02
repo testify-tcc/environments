@@ -1,2 +1,7 @@
-# environments
-The Testify goal is to help developers learn about software testing in practice. This repo stores the docker environments that run tests.
+# Testify Environment
+
+The Testify goal is to help developers learn about software testing in practice. We recommend using the platform along with Mauricio Aniche's book _Effective Software Testing: A Developer's Guide_, which is the base for the exercises.
+
+## Environments
+
+This repo stores the docker environments that run tests.
