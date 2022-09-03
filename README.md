@@ -5,3 +5,8 @@ The Testify goal is to help developers learn about software testing in practice.
 ## Environments
 
 This repo stores the docker environments that run tests.
+
+## List of environments
+
+- Javascript + Jest ([javascript-jest](https://hub.docker.com/repository/docker/vinigpereira/javascript-jest))
+- Typescript + Jest ([typescript-jest](https://hub.docker.com/repository/docker/vinigpereira/typescript-jest))
