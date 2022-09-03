@@ -4,6 +4,7 @@ WORKDIR /sandbox
 
 COPY . .
 
-ENTRYPOINT ["npm i"]
-
+RUN npm i
 RUN npm install jest --global
+
+ENTRYPOINT []
